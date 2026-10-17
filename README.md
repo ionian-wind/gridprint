@@ -1,6 +1,6 @@
-Tile image on page for print in grid
+Tiles an image on a page for printing in a grid.
 
-May accept multiple images - each will be printed on it's own page.
+Accepts multiple images — each will be printed on its own page.
 
 ```
 Usage: gridprint.sh [OPTIONS] IMAGE [IMAGE...]
